@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/moeller/foo/Mixer1_Controller/build/CMakeFiles/bootloader
+/home/moeller/foo/Mixer1_Controller/build/CMakeFiles/bootloader.rule
+/home/moeller/foo/Mixer1_Controller/build/CMakeFiles/bootloader-complete.rule
+/home/moeller/foo/Mixer1_Controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/moeller/foo/Mixer1_Controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/moeller/foo/Mixer1_Controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/moeller/foo/Mixer1_Controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/moeller/foo/Mixer1_Controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/moeller/foo/Mixer1_Controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/moeller/foo/Mixer1_Controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
